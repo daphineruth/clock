@@ -1,2 +1,2 @@
 # clock
-clock using javascript,HTML and css
+clock using javascript,HTML and CSS
